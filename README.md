@@ -1,6 +1,6 @@
-# SunEdison Connect
+# GitTest
 
-This is the repository for the SunEdison Connect project.
+This is the repository for experiment GitHub
 
 # Setup
 
@@ -13,3 +13,4 @@ See `DEVELOPMENT.md` for information on development workflow and coding standard
 # Testing
 
 See `TESTING.md` for information on setting up and running the test suite.
+
